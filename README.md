@@ -3,6 +3,11 @@
 
 ![image](https://user-images.githubusercontent.com/88465332/133582338-2ea7141d-8e07-4e03-ad3c-6c9f3bc1f5dd.png)
 
+![image](https://user-images.githubusercontent.com/88465332/133584090-64d44147-b305-4077-a52e-465623a3f77c.png)
+
+![image](https://user-images.githubusercontent.com/88465332/133584180-f926f2f5-5fb6-4db7-b4ec-11eca84703ed.png)
+
+
 /*
 aqui ira la resolucion
 */
